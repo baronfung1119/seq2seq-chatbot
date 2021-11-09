@@ -1,0 +1,8 @@
+
+*.zip
+*.pkl
+*.conv
+*.ckpt*
+checkpoint
+Data/
+chatbot/__pycache__/
